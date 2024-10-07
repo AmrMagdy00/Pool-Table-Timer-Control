@@ -1,0 +1,11 @@
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\bin\Debug\PoolTable.exe.config
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\bin\Debug\PoolTable.exe
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\bin\Debug\PoolTable.pdb
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.csproj.AssemblyReference.cache
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.ctrlPoolTable.resources
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.Properties.Resources.resources
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.csproj.GenerateResource.cache
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.csproj.CoreCompileInputs.cache
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.exe
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.pdb
+C:\Users\SAGA\source\repos\PoolTable\PoolTable\obj\Debug\PoolTable.Form1.resources
