@@ -1,0 +1,2 @@
+# Pool Table Timer Control
+ This project is a Windows Forms control designed for managing and tracking the time spent on a pool (billiards) table. It allows you to set the player’s name, the table title, and an hourly rate for billing. A timer starts when a session begins, recording the time in hours, minutes, and seconds. The timer can be paused and resumed, and fees are calculated based on the elapsed time. When the session ends, an event is triggered, providing the player's name, the table title, total time played, and the fees incurred.
